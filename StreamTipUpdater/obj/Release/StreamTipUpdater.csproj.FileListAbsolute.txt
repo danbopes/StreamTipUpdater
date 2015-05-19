@@ -1,0 +1,16 @@
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\StreamTipUpdater.exe.config
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\StreamTipUpdater.exe
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\StreamTipUpdater.pdb
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\EngineIoClientDotNet.dll
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\ExcelLibrary.dll
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\log4net.dll
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\Newtonsoft.Json.dll
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\SocketIoClientDotNet.dll
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\WebSocket4Net.dll
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\log4net.xml
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\bin\Release\Newtonsoft.Json.xml
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\obj\Release\StreamTipUpdater.csprojResolveAssemblyReference.cache
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\obj\Release\StreamTipUpdater.Properties.Resources.resources
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\obj\Release\StreamTipUpdater.csproj.GenerateResource.Cache
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\obj\Release\StreamTipUpdater.exe
+E:\_Visual Studio 2012\Projects\StreamTipUpdater\StreamTipUpdater\obj\Release\StreamTipUpdater.pdb
